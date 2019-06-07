@@ -13,5 +13,5 @@ por ejemplo:
 
 #### Senku_Menu:
 ##### 1.Estilo frances
-#####2.Estilo aleman
-#####Escoger estilo:
+##### 2.Estilo aleman
+##### Escoger estilo:
