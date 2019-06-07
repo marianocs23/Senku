@@ -7,7 +7,7 @@ un "salto" sobre otra, como en las damas. Sólo se puede capturar en horizontal 
 vertical, nunca en diagonal. Así, al principio, sólo pocas tienen posibilidad de moverse, 
 capturando una.El objetivo del juego es eliminar todas las piezas, dejando sólo una en el tablero
 
-Instalacion:
+#Instalacion:
 El juego inicia con un panel en el cual escogeras la forma del juego cual te resulte mejor conveniente
 por ejemplo:
 
