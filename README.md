@@ -14,18 +14,3 @@ por ejemplo:
 Senku_Menu:
 1.Estilo frances
 2.Estilo aleman
-Escoger estilo: 1
-  1    2    3    4    5    6    7
-1           O----O----O
-            |    |    |
-2           O----O----O
-            |    |    |
-3 O----O----O----O----O----O----O
-  |    |    |    |    |    |    |
-4 O----O----O----+----O----O----O
-  |    |    |    |    |    |    |
-5 O----O----O----O----O----O----O
-            |    |    |
-6           O----O----O
-            |    |    |
-7           O----O----O
