@@ -12,10 +12,8 @@ El juego inicia con un panel en el cual escogeras la forma del juego cual te res
 por ejemplo:
 
 Senku_Menu:
------------------------
 1.Estilo frances
 2.Estilo aleman
------------------------
 Escoger estilo: 1
   1    2    3    4    5    6    7
 1           O----O----O
