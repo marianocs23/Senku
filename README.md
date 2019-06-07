@@ -11,6 +11,7 @@ capturando una.El objetivo del juego es eliminar todas las piezas, dejando sólo
 El juego inicia con un panel en el cual escogeras la forma del juego cual te resulte mejor conveniente
 por ejemplo:
 
-### Senku_Menu:
-1.Estilo frances
-2.Estilo aleman
+#### Senku_Menu:
+##### 1.Estilo frances
+#####2.Estilo aleman
+#####Escoger estilo:
