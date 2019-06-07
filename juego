@@ -503,10 +503,6 @@ int main(){
     cout << "----------------------------" << endl;
     cout << "1. Estilo frances" << endl;
     cout << "2. Estilo aleman" << endl;
-    cout << "3. Estilo asimetrico" << endl;
-    cout << "4. Estilo ingles" << endl;
-    cout << "5. Estilo diamante" << endl;
-    cout << "6. Estilo trianular" << endl;
     cout << "----------------------------" << endl;
     cout<<"selecciona el tipo de juego que desea jugar: ";
     cin>>tipo_de_juego;
